@@ -1,6 +1,5 @@
-rsschool-cv
 # **Vladimir Abramov**
-<!-- ![Что то пошло не так] (https://ibb.co/Xz3dn5z) -->
+
 ===
 ### **Contacs**
 * **Location:** Tomsk, Russia
@@ -18,6 +17,7 @@ I like to learn something new, I work well in a team and I am ready for difficul
 * VS Code
 * Figma
 * Jira
+
 ===
 ### **Code example:**
 `function areYouPlayingBanjo(name) {
@@ -26,6 +26,7 @@ I like to learn something new, I work well in a team and I am ready for difficul
 }`
 ===
 ### **Education**
+
 * Tomsk State University, Сompany management 
 ===
 ### **Languages:**
